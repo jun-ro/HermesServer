@@ -6,7 +6,7 @@
 
 **This is the server backend for the Hermes tool!**
 
-Hermes is a powerful and lightweight tool designed to streamline the synchronization of assets from public repositories. This tool enables developers to seamlessly import various assets, including scripts, modules, or components created by other developers. With Hermes, collaboration becomes more efficient as it facilitates the sharing and integration of valuable resources across different projects.
+The Hermes Backend allows Hermes to communicate with github repos that your team might store assets in, this backend can be hosted on a plethora of servers, even including your very own localhost! This is only for Roblox.
 
 ## Features
 
