@@ -6,7 +6,7 @@ if not %1=="" (
     git add -A
     git commit -m %1
     echo Commiting with message: %1
-    git push origin
+    git push -f origin
     echo Successfully pushed files to main branch.
 ) else (
     cls
